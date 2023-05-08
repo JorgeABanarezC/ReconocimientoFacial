@@ -1,0 +1,11 @@
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.exe
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial.pdb
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.exe
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\Reconocimiento facial.pdb
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.AssemblyReference.cache
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Properties.Resources.resources
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.cache
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\Reconocimiento facial v2.0\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.CopyComplete
